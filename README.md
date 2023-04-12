@@ -20,9 +20,10 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 - GraphQL
 
 ## 🛠️ Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rehan-shah&repo=emoji_twitter)](https://github.com/Rehan-shah/emoji_twitter.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rehan-shah&repo=BlackJack)](https://github.com/Rehan-shah/BlackJack.git)
-- and more...
+- [Blackjack game](https://github.com/Rehan-shah/blackjack-game)
+- [Shift or not](https://github.com/Rehan-shah/shift-or-not)
+- [Emoji-twitter](https://github.com/Rehan-shah/emoji-twitter)
+- add more...
 
 ## 📫 How to reach me
 - Email: rehansnehalshah1@gmail.com
