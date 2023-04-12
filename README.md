@@ -32,17 +32,24 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 ## 💻 A little bit of code
 
 ```javascript
-// A function that returns a random emoji
-function getRandomEmoji() {
-  const emojis = ["😀", "😎", "😍", "😂", "😜", "😱", "😡", "😇", "👽", "👻"];
-  const index = Math.floor(Math.random() * emojis.length);
-  return emojis[index];
+// A function that returns a random joke
+function getRandomJoke() {
+  const jokes = [
+    "What do you call a fish wearing a bowtie? Sofishticated.",
+    "How do you make a tissue dance? You put a little boogie in it.",
+    "Why did the math book look so sad? Because of all of its problems.",
+    "What do you get when you cross a snowman with a vampire? Frostbite.",
+    "How do you get a squirrel to like you? Act like a nut.",
+  ];
+  const index = Math.floor(Math.random() * jokes.length);
+  return jokes[index];
 }
 
-// A function that prints hello world with a random emoji
+// A function that prints hello world with a random joke
 function helloWorld() {
-  console.log(`Hello world ${getRandomEmoji()}`);
+  console.log(`Hello world ${getRandomJoke()}`);
 }
 
 // Call the function
 helloWorld();
+
