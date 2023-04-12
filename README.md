@@ -29,5 +29,5 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 - Twitter: [@Rehansnehalshah](https://twitter.com/Rehansnehalshah)
 - LinkedIn: [Rehan Shah](https://www.linkedin.com/in/rehan-shah/)
 
-## Stats
+## My github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehan-shah&show_icons=true&theme=transparent)
