@@ -30,4 +30,4 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 - LinkedIn: [Rehan Shah](https://www.linkedin.com/in/rehan-shah/)
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehan-shah&show_icons=true&theme=transparent)
