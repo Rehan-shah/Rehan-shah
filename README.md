@@ -22,7 +22,7 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 ## 🛠️ Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rehan-shah&repo=emoji_twitter)](https://github.com/Rehan-shah/emoji_twitter.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rehan-shah&repo=BlackJack)](https://github.com/Rehan-shah/BlackJack.git)
-and more...
+- and more...
 
 ## 📫 How to reach me
 - Email: rehansnehalshah1@gmail.com
