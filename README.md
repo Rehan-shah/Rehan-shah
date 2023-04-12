@@ -20,10 +20,8 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 - GraphQL
 
 ## 🛠️ Projects
-- [Blackjack game](https://github.com/Rehan-shah/blackjack-game)
-- [Shift or not](https://github.com/Rehan-shah/shift-or-not)
-- [Emoji-twitter](https://github.com/Rehan-shah/emoji-twitter)
-- add more...
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 ## 📫 How to reach me
 - Email: rehansnehalshah1@gmail.com
