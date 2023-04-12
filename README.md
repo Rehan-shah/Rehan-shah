@@ -26,7 +26,7 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 
 ## 📫 How to reach me
 - Email: rehansnehalshah1@gmail.com
-- Twitter: [@rehan_shah](https://twitter.com/Rehansnehalshah)
+- Twitter: [@Rehansnehalshah](https://twitter.com/Rehansnehalshah)
 - LinkedIn: [Rehan Shah](https://www.linkedin.com/in/rehan-shah/)
 
 ## Stats
