@@ -20,7 +20,8 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 - GraphQL
 
 ## 🛠️ Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Rehan-shah&repo=emoji_twitter)](https://github.com/Rehan-shah/emoji_twitter.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=simple-sqlite)](https://github.com/madushadhanushka/simple-sqlite)
 
 ## 📫 How to reach me
