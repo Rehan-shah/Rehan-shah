@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi, I'm Rehan Shah 👋
 
-<!--
-**Rehan-shah/Rehan-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack web developer from India who loves to create amazing web applications. I use HTML, JavaScript, React, Solid JS, Next JS, MySQL, MongoDB, Vector database and GraphQL to build projects that are fun, useful and innovative. You can find them in my GitHub repositories. Some of my projects include a personal website, a lifestyle calculator and emoji-twitter. I'm always eager to learn new technologies and improve my code quality. I enjoy collaborating with other developers and sharing my knowledge. Feel free to explore my work and connect with me. I'd love to hear from you. 😊
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML
+- JavaScript
+- React
+- Solid JS
+- Next JS
+- MySQL
+- MongoDB
+- Vector database
+- GraphQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects
+- [Personal website](https://github.com/rehan-shah/personal-website)
+- [Lifestyle calculator](https://github.com/rehan-shah/lifestyle-calculator)
+- [Emoji-twitter](https://github.com/rehan-shah/emoji-twitter)
+
+## 📫 How to reach me
+- Email: rehan.shah@gmail.com
+- Twitter: [@rehan_shah](https://twitter.com/rehan_shah)
+- LinkedIn: [Rehan Shah](https://www.linkedin.com/in/rehan-shah/)
