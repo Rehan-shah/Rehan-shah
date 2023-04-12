@@ -28,4 +28,21 @@ Full stack web developer who loves to create amazing web applications 💻. I bu
 - Email: rehan.shah@gmail.com
 - Twitter: [@rehan_shah](https://twitter.com/rehan_shah)
 - LinkedIn: [Rehan Shah](https://www.linkedin.com/in/rehan-shah/)
-```
+
+## 💻 A little bit of code
+
+```javascript
+// A function that returns a random emoji
+function getRandomEmoji() {
+  const emojis = ["😀", "😎", "😍", "😂", "😜", "😱", "😡", "😇", "👽", "👻"];
+  const index = Math.floor(Math.random() * emojis.length);
+  return emojis[index];
+}
+
+// A function that prints hello world with a random emoji
+function helloWorld() {
+  console.log(`Hello world ${getRandomEmoji()}`);
+}
+
+// Call the function
+helloWorld();
